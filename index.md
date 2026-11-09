@@ -9,4 +9,5 @@ Acoustic burst watch for macOS and iOS. It listens to the audio input you choose
 
 - [Privacy Policy](/privacy/)
 - [Support](/support/)
+- [Press and information](/press/)
 - Support: [danoli3.com](https://danoli3.com)

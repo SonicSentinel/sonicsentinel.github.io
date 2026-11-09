@@ -7,7 +7,7 @@ permalink: /privacy/
 # Sonic Sentinel: Privacy Policy
 
 **Effective date:** 10 November 2026
-**App:** Sonic Sentinel (macOS and iOS), by Daniel Rosser
+**App:** Sonic Sentinel (macOS, iOS and Apple TV), by Daniel Rosser
 **Support:** [danoli3.com](https://danoli3.com)
 
 ## In short
@@ -24,6 +24,16 @@ Sonic Sentinel listens to the audio input you choose (the built-in microphone, a
 - The audio is processed as it arrives, in memory, to produce spectra, levels and detections. It is **not saved as audio** and is not sent anywhere.
 - The app asks the operating system for permission to use the microphone. You can withdraw that permission at any time in System Settings (macOS) or Settings (iOS), and the app will stop listening.
 - The app can also analyse a WAV recording that **you** select. That file is read on your device and is not copied or uploaded.
+
+## Apple TV (tvOS)
+
+This policy applies equally to any version of Sonic Sentinel for Apple TV. On Apple TV:
+
+- The app collects, transmits and shares **no personal data**, makes **no network connections of its own**, and has no accounts, analytics, advertising or tracking, exactly as on Mac and iPhone.
+- The app does **not record audio**. It analyses only the audio that the system makes available to it, in memory, and does not save or send it.
+- It does not use the camera, your location, your contacts, your Apple ID or any viewing or usage information.
+- Anything the app keeps (its settings and a log of detections) stays **on your Apple TV**, encrypted as described below, and tvOS may remove stored app data at any time to free space.
+- Apple's own [Apple TV and Privacy](https://www.apple.com/legal/privacy/) terms govern the device and the tvOS system, which are separate from the app.
 
 ## What the app stores on your device
 

@@ -8,6 +8,10 @@ permalink: /support/
 
 Sonic Sentinel is an acoustic burst watch for macOS and iOS. This page answers the common questions. If yours isn't here, get in touch through [danoli3.com](https://danoli3.com).
 
+## Report a problem or ask for a feature
+
+Open an issue at **[github.com/SonicSentinel/Support](https://github.com/SonicSentinel/Support/issues/new/choose)**: there are forms for bug reports, feature requests and questions. Issues there are **public** and handled by GitHub, not by the app, so please do not post recordings, private locations or your encryption salt. For anything private, get in touch through [danoli3.com](https://danoli3.com).
+
 ## Getting help
 
 When you write, it helps to include:
